@@ -9,3 +9,8 @@ from website import routes
 
 if __name__ == '__main__':
     app.run(threaded=True)
+
+'''
+NOTES
+- Add icons to services: https://icofont.com/icons
+'''
